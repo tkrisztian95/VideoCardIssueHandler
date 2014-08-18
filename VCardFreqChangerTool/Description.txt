@@ -1,0 +1,2 @@
+This project made for handle AMD 5650m core and memory with AMDGpuClockTool 3rd party software.
+The card has issues when reach the max core and mem freq autamitcally so need to keep it lower but not on a fix freq.

@@ -1,0 +1,7 @@
+c:\users\krisztian\documents\visual studio 2012\Projects\VideoCardHandler\VideoCardHandler\bin\Debug\VideoCardHandler.exe.config
+C:\Users\Acer\Documents\GitHub\HomeProjects\VCardFreqChangerTool\VideoCardHandler\bin\Debug\VideoCardHandler.exe.config
+C:\Users\Acer\Documents\GitHub\HomeProjects\VCardFreqChangerTool\VideoCardHandler\obj\Debug\VideoCardHandler.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\GitHub\HomeProjects\VCardFreqChangerTool\VideoCardHandler\bin\Debug\VideoCardHandler.exe
+C:\Users\Acer\Documents\GitHub\HomeProjects\VCardFreqChangerTool\VideoCardHandler\bin\Debug\VideoCardHandler.pdb
+C:\Users\Acer\Documents\GitHub\HomeProjects\VCardFreqChangerTool\VideoCardHandler\obj\Debug\VideoCardHandler.exe
+C:\Users\Acer\Documents\GitHub\HomeProjects\VCardFreqChangerTool\VideoCardHandler\obj\Debug\VideoCardHandler.pdb
