@@ -22,9 +22,3 @@
 [447:504] (Error) CEvergreenGraphicsDevice() : CPCIDeviceManager::DetectDevices - missing parent of device: BN = 0xFF, DN = 0x02, FN = 0x01, DEVICE = 0x8086, VENDOR = 0x2D11
 [447:504] (Error) CEvergreenGraphicsDevice() : CPCIDeviceManager::DetectDevices - missing parent of device: BN = 0xFF, DN = 0x02, FN = 0x02, DEVICE = 0x8086, VENDOR = 0x2D12
 [447:504] (Error) CEvergreenGraphicsDevice() : CPCIDeviceManager::DetectDevices - missing parent of device: BN = 0xFF, DN = 0x02, FN = 0x03, DEVICE = 0x8086, VENDOR = 0x2D13
-[025:628] (Error) CEvergreenGraphicsDevice() : CPCIDeviceManager::DetectDevices - missing parent of device: BN = 0xFF, DN = 0x00, FN = 0x00, DEVICE = 0x8086, VENDOR = 0x2C62
-[025:677] (Error) CEvergreenGraphicsDevice() : CPCIDeviceManager::DetectDevices - missing parent of device: BN = 0xFF, DN = 0x00, FN = 0x01, DEVICE = 0x8086, VENDOR = 0x2D01
-[025:678] (Error) CEvergreenGraphicsDevice() : CPCIDeviceManager::DetectDevices - missing parent of device: BN = 0xFF, DN = 0x02, FN = 0x00, DEVICE = 0x8086, VENDOR = 0x2D10
-[025:679] (Error) CEvergreenGraphicsDevice() : CPCIDeviceManager::DetectDevices - missing parent of device: BN = 0xFF, DN = 0x02, FN = 0x01, DEVICE = 0x8086, VENDOR = 0x2D11
-[025:680] (Error) CEvergreenGraphicsDevice() : CPCIDeviceManager::DetectDevices - missing parent of device: BN = 0xFF, DN = 0x02, FN = 0x02, DEVICE = 0x8086, VENDOR = 0x2D12
-[025:681] (Error) CEvergreenGraphicsDevice() : CPCIDeviceManager::DetectDevices - missing parent of device: BN = 0xFF, DN = 0x02, FN = 0x03, DEVICE = 0x8086, VENDOR = 0x2D13

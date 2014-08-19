@@ -5,3 +5,12 @@ C:\Users\Acer\Documents\GitHub\HomeProjects\VCardFreqChangerTool\VideoCardHandle
 C:\Users\Acer\Documents\GitHub\HomeProjects\VCardFreqChangerTool\VideoCardHandler\bin\Debug\VideoCardHandler.pdb
 C:\Users\Acer\Documents\GitHub\HomeProjects\VCardFreqChangerTool\VideoCardHandler\obj\Debug\VideoCardHandler.exe
 C:\Users\Acer\Documents\GitHub\HomeProjects\VCardFreqChangerTool\VideoCardHandler\obj\Debug\VideoCardHandler.pdb
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\bin\Debug\VideoCardHandler.exe.config
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\obj\Debug\VideoCardHandler.exe
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\obj\Debug\VideoCardHandler.pdb
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\bin\Debug\VideoCardHandler.exe
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\bin\Debug\VideoCardHandler.pdb
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\obj\Debug\VideoCardHandler.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\obj\Debug\VideoCardHandler.ClockToolService.resources
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\obj\Debug\VideoCardHandler.ProjectInstaller.resources
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\obj\Debug\VideoCardHandler.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+Acer 5942g ati 5650 hardver probléma kezelõ szolgáltatás!
+
+A szolgáltatás telepítéséhez indítsa el az install.bat állományt rendszergazdai jogosultsággal.
+-Az állomány indítását követõen telepítse a felugró ablakon keresztül az AMDGpuClock tool alkalmazást, majd a telepítõ autómatikusan elvégzi a szolgáltatás telepítését.
+
+A szolgáltatás eltávolításához indítsa el az uninstall.bat állományt rendszergazdai jogosultsággal.
+-Az állomány indítását követõen tábolítsa el a felugró ablakon keresztül az AMDGpuClock tool alkalmazást, majd az eltávolító autómatikusan elvégzi a szolgáltatás eltávolítását.
