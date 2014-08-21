@@ -1,9 +1,0 @@
-C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\bin\Release\VideoCardHandler.exe.config
-C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\bin\Release\VideoCardHandler.exe
-C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\bin\Release\VideoCardHandler.pdb
-C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\obj\Release\VideoCardHandler.csprojResolveAssemblyReference.cache
-C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\obj\Release\VideoCardHandler.exe
-C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\obj\Release\VideoCardHandler.pdb
-C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\obj\Release\VideoCardHandler.ClockToolService.resources
-C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\obj\Release\VideoCardHandler.csproj.GenerateResource.Cache
-C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VCardFreqChangerTool\VideoCardHandler\obj\Release\VideoCardHandler.ProjectInstaller.resources

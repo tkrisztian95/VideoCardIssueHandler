@@ -1,0 +1,12 @@
+c:\users\acer\documents\visual studio 2012\Projects\VideoCardHandler_winform\VideoCardHandler_winform\bin\Debug\VideoCardHandler_winform.exe.config
+C:\Users\Acer\documents\visual studio 2012\Projects\VideoCardHandler_winform\VideoCardHandler_winform\bin\Debug\VideoCardHandler_winform.exe
+C:\Users\Acer\documents\visual studio 2012\Projects\VideoCardHandler_winform\VideoCardHandler_winform\bin\Debug\VideoCardHandler_winform.pdb
+C:\Users\Acer\documents\visual studio 2012\Projects\VideoCardHandler_winform\VideoCardHandler_winform\obj\Debug\VideoCardHandler_winform.csprojResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2012\Projects\VideoCardHandler_winform\VideoCardHandler_winform\obj\Debug\VideoCardHandler_winform.MainForm.resources
+C:\Users\Acer\documents\visual studio 2012\Projects\VideoCardHandler_winform\VideoCardHandler_winform\obj\Debug\VideoCardHandler_winform.Properties.Resources.resources
+C:\Users\Acer\documents\visual studio 2012\Projects\VideoCardHandler_winform\VideoCardHandler_winform\obj\Debug\VideoCardHandler_winform.csproj.GenerateResource.Cache
+C:\Users\Acer\documents\visual studio 2012\Projects\VideoCardHandler_winform\VideoCardHandler_winform\obj\Debug\VideoCardHandler_winform.exe
+C:\Users\Acer\documents\visual studio 2012\Projects\VideoCardHandler_winform\VideoCardHandler_winform\obj\Debug\VideoCardHandler_winform.pdb
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VideoCardHandler_winform\bin\Debug\VideoCardHandler_winform.exe.config
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VideoCardHandler_winform\obj\Debug\VideoCardHandler_winform.exe
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VideoCardHandler_winform\obj\Debug\VideoCardHandler_winform.pdb
