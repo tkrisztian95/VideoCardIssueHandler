@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VideoCardHandler_installer\bin\Debug\VideoCardHandler_installer.exe.config
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VideoCardHandler_installer\bin\Debug\VideoCardHandler_installer.exe
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VideoCardHandler_installer\bin\Debug\VideoCardHandler_installer.pdb
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VideoCardHandler_installer\obj\Debug\VideoCardHandler_installer.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VideoCardHandler_installer\obj\Debug\VideoCardHandler_installer.exe
+C:\Users\Acer\Documents\GitHub\VideoCardIssueHandler\VideoCardHandler_installer\obj\Debug\VideoCardHandler_installer.pdb
